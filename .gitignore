@@ -15,7 +15,11 @@
 /log/*.log
 /tmp
 
+<<<<<<< HEAD
 #Ignore other unneeded files.
+=======
+#lgnore other unneeded files.
+>>>>>>> static-pages
 database.yml
 doc/
 *.swp
